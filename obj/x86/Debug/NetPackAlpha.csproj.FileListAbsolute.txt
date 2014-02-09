@@ -1,0 +1,4 @@
+E:\Dokumente\Programming\NetPackAlpha\bin\Debug\NetPackAlpha.exe
+E:\Dokumente\Programming\NetPackAlpha\bin\Debug\NetPackAlpha.pdb
+E:\Dokumente\Programming\NetPackAlpha\obj\x86\Debug\NetPackAlpha.exe
+E:\Dokumente\Programming\NetPackAlpha\obj\x86\Debug\NetPackAlpha.pdb
